@@ -1,3 +1,6 @@
+ALL CREDIT TO GITHUB USER SERKANYERSEN. SEE ORIGINAL REPO HERE: https://github.com/serkanyersen/snake
+This was pulled with his permission into this repository for the purpose of having a single location to download all associated files with the TypeScript lunch and learn.
+
 ## Basic Snake Game written in TypeScript
 Just for fun. It's written in vanilla js, no libraries used. Also it uses HTML elements to render the game instead of canvas.
 
