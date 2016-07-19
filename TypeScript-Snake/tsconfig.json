@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "outDir": "output",
+        "sourceMap": false,
+        "target": "es6",
+        "module": "es6",
+        "allowJs": false
+    },
+    "files": [
+        "./src/index.ts"
+    ]
+}
