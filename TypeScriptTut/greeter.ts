@@ -10,21 +10,11 @@ var isDone: boolean  = true;
 var lines: number = 5;
 var name: string = "Nick";
 
-function annoyOurUsersToNoEnd(message: string): void {
-    alert("Hey user what do you think of this?" + message);
-    return message;
-}
-
 interface Person {
-    name: string
+    name: string;
+    age?: number;
 }
 
-public void sayHello(string message) {
-
-}
-
-sayHello()"Go");
-
-var Ken: Person = {"Ken"};
+var Ken: Person = {name: "Ken"};
 var Nick: Person = {name: "Nick", age: 23};
-var Chad: Person {name: "Chad", goToWork(false): {}};
+var Chad: Person = {name: "Chad"};
